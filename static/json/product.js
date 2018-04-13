@@ -110,8 +110,8 @@
       "0":"/static/img/212(1).jpg",
       "1":"/static/img/212(2).jpg",
       "2":"/static/img/212(3).jpg",
-	  "3":"/static/img/212(4).jpg",
-	  "4":"/static/img/212(5).jpg"
+	    "3":"/static/img/212(4).jpg",
+	    "4":"/static/img/212(5).jpg"
     }
   },
   {
@@ -121,11 +121,11 @@
     "material":"4000平",
     "introduce":"我们专注于品牌设计与研究，设计总监来自于各4A广告公司有着10年的设计经验，在各行业有着丰富成熟的设计。",
     "feedbackImg":{
-        "0":"/static/img/gc(4).jpg",
-        "1":"/static/img/gc(5).jpg",
-        "2":"/static/img/gc(1).jpg",
-        "3":"/static/img/gc(2).jpg",
-        "4":"/static/img/gc(3).jpg"
+      "0":"/static/img/212(1).jpg",
+      "1":"/static/img/212(2).jpg",
+      "2":"/static/img/212(3).jpg",
+      "3":"/static/img/212(4).jpg",
+      "4":"/static/img/212(5).jpg"
     }
 }
 ]
